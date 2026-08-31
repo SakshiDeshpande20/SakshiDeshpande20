@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Sakshi Deshpande
 
-A passionate AI/ML Engineer || NLP & LLM Enthusiast || Data Analyst from India
+A passionate AI/ML Engineer || NLP & LLM Enthusiast || Data Analyst 
 
 I’m an Integrated M.Tech student in Computational & Data Science at VIT Bhopal, passionate about building practical AI/ML solutions and exploring NLP, LLMs, and data-driven technologies.
 
